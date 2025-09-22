@@ -40,3 +40,27 @@ My strengths include persistence, teamwork, and a friendly attitude. I enjoy col
 - [x] Persistence
 - [x] Friendly and open communication
 - [x] Eagerness to learn and improve
+
+-----
+## Code examples: 
+```js
+console.log('Hello world!');
+```
+-----
+## Work Experience:
+Self-Study Projects – Frontend Developer (Trainee Level) 2024 – Present
+
+-----
+## Education:
+- [x] Belarusian National Technical University (BNTU) Bachelor’s Degree in Materials Science in Mechanical Engineering 2016 – 2021
+
+#### Courses & Training
+- [x] Digital Design, Online School «CIDR FAMILY» (2022)
+- [x] Web Design in Figma: From Scratch to Results (2024)
+- [ ] JavaScript / Frontend Development – Preparatory Course, RS School (in progress)
+
+-----
+## Languages
+Russian – Native
+English – A2 (Pre-Intermediate)
+Polish – A2 (Pre-Intermediate)
